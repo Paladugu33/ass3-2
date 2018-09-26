@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 14 19:40:41 2018
 
-@author: hmohan
-"""
 import xlrd
 import os
 import pandas as pd
