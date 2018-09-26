@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 14 15:33:21 2018
-
-@author: hmohan
-
-
-"""
 
 import mysql.connector
 
